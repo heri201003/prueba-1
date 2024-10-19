@@ -1,0 +1,29 @@
+<div class="row product-grid">
+  <div class="col-md-6 col-lg-4">
+    <div class="product-card">
+      <img src="producto-1.jpg" class="product-image">
+      <div class="product-info">
+        <h3>Producto 1</h3>
+        <p>Descripción detallada del producto 1</p>
+        <div class="product-actions">
+          <button class="btn btn-primary">Comprar</button>
+          <button class="btn btn-secondary">Agregar a carrito</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="product-card">
+      <img src="producto-2.jpg" class="product-image">
+      <div class="product-info">
+        <h3>Producto 2</h3>
+        <p>Descripción detallada del producto 2</p>
+        <div class="product-actions">
+          <button class="btn btn-primary">Comprar</button>
+          <button class="btn btn-secondary">Agregar a carrito</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- ... más productos destacados ... -->
+</div>
